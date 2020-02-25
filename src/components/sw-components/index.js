@@ -11,10 +11,5 @@ import  {
 } from './list/item-lists';
 
 export {
-    PersonDetails,
-    PlanetDetails,
-    StarShipDetails,
-    PersonList,
-    Planetlist,
-    StarshipList
+
 }
